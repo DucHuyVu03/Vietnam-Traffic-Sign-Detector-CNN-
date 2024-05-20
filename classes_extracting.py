@@ -1,3 +1,5 @@
+#Made by Huy VuDuc
+#Convert lines of label in classes.txt into a list
 from pathlib import Path
 def read_labels(file_path):
     with open(file_path, 'r') as file:
