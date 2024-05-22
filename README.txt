@@ -6,3 +6,4 @@ So i won't take all credit to me.
  2. "Data_preparing.py" 
  3. "data_preprocessing.py"
     is used to create a .npz file to create a suitable dataset to training and testing
+#CLOSED TEMPORARY cause I need time for other stuffs :P
